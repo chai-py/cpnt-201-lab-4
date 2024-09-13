@@ -69,6 +69,7 @@ Ingredients:
 - Salt and pepper to taste
 - 2 cups breadsticks
 - 1 jar (24 oz) spaghetti sauce
+- ghost pepper
 
 Instructions:
 
@@ -93,6 +94,7 @@ Ingredients:
 - Tomato
 - Mayonnaise
 - Cilantro
+- onion
 
 Instructions:
 
