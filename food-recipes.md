@@ -70,6 +70,7 @@ Ingredients:
 - 2 cups breadsticks
 - 1 jar (24 oz) spaghetti sauce
 - ghost pepper
+- onion
 
 Instructions:
 
