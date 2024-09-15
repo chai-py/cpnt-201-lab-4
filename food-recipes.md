@@ -144,6 +144,7 @@ Ingredients:
 - 20 eggs
 - 2 tsp vanilla extract
 - 10 cups semisweet chocolate chips
+- cream
 
 Instructions:
 
